@@ -1,14 +1,19 @@
-# My personal Portfolio
-*Cliff portfolio*
-My portfolio simply describes who am.It describes my education background,my work experience and my interests.This portfolio i designed it on 7/9/2018.
-## Description,Purpose and usage.
-I started learning back in the year 2005,after eight years i joined high school and later started my computer package class.Currently am doing my diploma course in IT at Moringa academy school.This application is meant to enable you know
-my life history.Its main purpose is to you who cliff is and his background both in academic and work experience.You can use this application to get to me and ask anything you may wish to know about me.
-###Technology used.
-*Programming languages*
-html
-CSS
-#### Application contributor
-+Cliff Nyendwe Esisari
-##### License
-*
+# PORTFOLIO LANDING PAGE
+ Portfolio landing page for my personal projects , 7-9-2018
+#### By **Cliff Nyendwe**
+# Description
+This platform will be used to keep all of my projects.
+##  Setup/Installation Requirements
+* Git
+* Web browser
+## Known Bugs
+there are no known bugs incase of any feel free to reach me at cliffnyendwe2018@gmail.com
+## Technologies Used
+I used :
+* Html and Css
+## Support and contact details
+Contact me using the followings;
+* email :cliffnyendwe2018@gmail.com
+* cellphone: 0710755176
+### License
+Copyright (c) 2018 **Cliff Nyendwe**
