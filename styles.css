@@ -1,0 +1,59 @@
+@media screen and (min-width: 480px) {
+    body {
+        background-color: purple;
+        color: white;
+}
+
+}
+html {
+  background-color: grey;
+}
+
+body {
+  text-align:center;
+  background-color: brown;
+  border: 50px solid black;
+  background-repeat: no-repeat;
+  background-size: contain;
+
+
+}
+
+nav>ul>li {
+  display:inline-block;
+  padding: 10px;
+  text-align:center;
+}
+
+.column {
+  width: 350px;
+  background-color: black;
+}
+
+#about-me {
+  font-style: italic;
+  padding-bottom: 200px;
+}
+
+.column {
+  float: left;
+  width: 400px;
+  background-color: black;
+  padding: 150px;
+}
+
+li {
+  list-style-type: lower-roman;
+}
+
+.line1 {
+  font-style: oblique;
+}
+
+img {
+  width: 50%;
+  height:70%;
+}
+body{
+  background-position: center;
+}
