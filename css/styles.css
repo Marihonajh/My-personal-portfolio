@@ -6,7 +6,7 @@
 
 }
 html {
-  background-color: bro;
+  background-color: grey;
 }
 
 body {
@@ -24,7 +24,6 @@ nav>ul>li {
   padding: 10px;
   text-align:center;
 }
-
 .column {
   width: 350px;
   background-color: black;
@@ -33,13 +32,6 @@ nav>ul>li {
 #about-me {
   font-style: italic;
   padding-bottom: 200px;
-}
-
-.column {
-  float: left;
-  width: 400px;
-  background-color: black;
-  padding: 150px;
 }
 
 li {
@@ -56,17 +48,4 @@ img {
 }
 body{
   background-position: center;
-}
-#contacts {
- position: relative;
- top:300px;
-}
-#contacts>ol>li{
-  list-style-type: none;
-  padding: 15px;
-  font-size: x-large;
-}
-#project{
-  font-size: x-large;
-  justify-content: center;
 }
